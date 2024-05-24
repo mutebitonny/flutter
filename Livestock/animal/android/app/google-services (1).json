@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "19596435258",
+    "firebase_url": "https://livestock-tracking-syste-ba3fd-default-rtdb.firebaseio.com",
+    "project_id": "livestock-tracking-syste-ba3fd",
+    "storage_bucket": "livestock-tracking-syste-ba3fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19596435258:android:049bd65d2d9560bb24ba03",
+        "android_client_info": {
+          "package_name": "com.example.animal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcV79UlD1IlVNzmzZNA3IHoElNHBMSWtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

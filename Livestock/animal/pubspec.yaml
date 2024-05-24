@@ -1,0 +1,29 @@
+name: animal
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fluttertoast: ^8.0.8
+  firebase_core: ^2.31.0
+  firebase_auth: 4.19.5
+  cloud_firestore: 4.17.3
+  # firebase_core: latest_version
+  # firebase_auth: latest_version
+  # cloud_firestore: latest_version
+  # cloud_firestore: latest_version
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
